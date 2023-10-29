@@ -1,0 +1,3 @@
+Analyzes metrics based on this file. The required metrics are total volume and average bandwidth, per site name.
+Total volume - how many bytes where downloaded from this site
+Average bandwidth - a transaction bandwidth is measured in bits/sec. Get the average bandwidth of all transactions from this site.
